@@ -1,2 +1,2 @@
 # Cyber_Tools
-repository for cybersecurity tools
+repository for learning cybersecurity tools
